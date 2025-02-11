@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+array spinner_items
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id calBtn
+id curr1
+id currDropDown
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.CurrencyConverter
+style Theme.CurrencyConverter
+xml backup_rules
+xml data_extraction_rules
