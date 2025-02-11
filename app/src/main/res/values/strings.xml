@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="spinner_items">
+        <item>USD</item>
+        <item>YUAN</item>
+        <item>GBP</item>
+        <item>SWP</item>
+    </string-array>
+</resources>
