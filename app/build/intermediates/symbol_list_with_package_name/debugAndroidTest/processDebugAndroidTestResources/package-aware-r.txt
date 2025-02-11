@@ -1,0 +1,3 @@
+com.satyam.currencyconverter.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

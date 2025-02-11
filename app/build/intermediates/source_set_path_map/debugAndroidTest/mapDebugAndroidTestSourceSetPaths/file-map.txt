@@ -1,0 +1,6 @@
+com.satyam.currencyconverter.test.app-core-1.5.0-0 /Users/stym-mac/.gradle/caches/8.10.2/transforms/89b6d032e889f9937fdf974065de1194/transformed/core-1.5.0/res
+com.satyam.currencyconverter.test.app-annotation-experimental-1.3.0-1 /Users/stym-mac/.gradle/caches/8.10.2/transforms/903a83c338170e9039ca524ba9a26d5c/transformed/annotation-experimental-1.3.0/res
+com.satyam.currencyconverter.test.app-androidTest-2 /Users/stym-mac/AndroidStudioProjects/CurrencyConverter/app/build/generated/res/resValues/androidTest/debug
+com.satyam.currencyconverter.test.app-mergeDebugAndroidTestResources-3 /Users/stym-mac/AndroidStudioProjects/CurrencyConverter/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.satyam.currencyconverter.test.app-mergeDebugAndroidTestResources-4 /Users/stym-mac/AndroidStudioProjects/CurrencyConverter/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.satyam.currencyconverter.test.app-debugAndroidTest-5 /Users/stym-mac/AndroidStudioProjects/CurrencyConverter/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
